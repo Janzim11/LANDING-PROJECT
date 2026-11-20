@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Website mockup in a browser window">
+  <rect width="600" height="400" fill="#374151"/>
+  <rect x="70" y="60" width="460" height="280" rx="12" fill="#F9FAF8"/>
+  <path d="M70 72a12 12 0 0 1 12-12h436a12 12 0 0 1 12 12v22H70z" fill="#E5E7EB"/>
+  <circle cx="92" cy="77" r="6" fill="#EF4444"/><circle cx="112" cy="77" r="6" fill="#F59E0B"/><circle cx="132" cy="77" r="6" fill="#10B981"/>
+  <rect x="100" y="120" width="190" height="22" rx="4" fill="#1F2937"/>
+  <rect x="100" y="152" width="150" height="10" rx="4" fill="#9CA3AF"/>
+  <rect x="100" y="172" width="170" height="10" rx="4" fill="#9CA3AF"/>
+  <rect x="100" y="200" width="80" height="28" rx="6" fill="#3882F6"/>
+  <rect x="330" y="120" width="170" height="108" rx="8" fill="#BFDBFE"/>
+  <circle cx="370" cy="152" r="14" fill="#F9FAF8"/>
+  <path d="M330 228l55-52 38 34 28-22 49 40z" fill="#3882F6"/>
+  <rect x="100" y="256" width="120" height="60" rx="8" fill="#E5E7EB"/>
+  <rect x="240" y="256" width="120" height="60" rx="8" fill="#E5E7EB"/>
+  <rect x="380" y="256" width="120" height="60" rx="8" fill="#E5E7EB"/>
+</svg>
